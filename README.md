@@ -1,1 +1,0 @@
-# checkpoint-building-react-with-typescript
